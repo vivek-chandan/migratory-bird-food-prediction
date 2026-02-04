@@ -1,0 +1,3 @@
+Migratory Bird Stopover Quality Index
+
+Use eBird migratory species data and NDVI greenness at stopover sites. Quantify food and habitat availability during peak migration months. Identify declining stopover zones. ANI is understudied in global migration maps.
